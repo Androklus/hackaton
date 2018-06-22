@@ -1,0 +1,19 @@
+<svg width="496" height="156" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <g>
+  <title>background</title>
+  <rect fill="#fff" id="canvas_background" height="158" width="498" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <path id="svg_1" d="m0.75,146l83.000008,-145.25l83.000008,145.25z" opacity="0.5" stroke-width="1.5" stroke="#ffffff" fill="#01359e"/>
+  <path id="svg_2" d="m164.75,146l83,-145.25l83,145.25z" opacity="0.5" stroke-width="1.5" stroke="#ffffff" fill="#01359e"/>
+  <path id="svg_3" d="m328.75,146l83,-145.25l83,145.25z" opacity="0.5" stroke-width="1.5" stroke="#ffffff" fill="#01359e"/>
+  <text font-weight="bold" transform="matrix(3.73072, 0, 0, 3.73072, -347.283, -532.956)" xml:space="preserve" text-anchor="start" font-family="Arvo, sans-serif" font-size="24" id="svg_4" y="178.692931" x="107.015329" stroke-width="0" stroke="#ffffff" fill="#ffffff">R</text>
+  <text font-weight="bold" transform="matrix(3.73072, 0, 0, 3.73072, -347.283, -532.956)" xml:space="preserve" text-anchor="start" font-family="Arvo, sans-serif" font-size="24" id="svg_5" y="178.692942" x="149.634453" stroke-width="0" stroke="#ffffff" fill="#ffffff">C</text>
+  <text font-weight="bold" transform="matrix(3.73072, 0, 0, 3.73072, -347.283, -532.956)" xml:space="preserve" text-anchor="start" font-family="Arvo, sans-serif" font-size="24" id="svg_6" y="178.692942" x="194.397931" stroke-width="0" stroke="#ffffff" fill="#ffffff">V</text>
+ </g>
+</svg>
